@@ -1,8 +1,8 @@
 def reverse_string(input_string):
-    reversed_str = ""
+    reversed = ""
     for i in input_string:
-        reversed_str = i + reversed_str
-    return reversed_str
+        reversed = i + reversed
+    return reversed
 
 user_input = input("Enter a string: ")
 
