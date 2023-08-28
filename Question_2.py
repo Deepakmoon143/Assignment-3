@@ -8,4 +8,4 @@ user_input = input("Enter a string: ")
 
 reversed_result = reverse_string(user_input)
 print(f"Original String:{user_input}")
-print(f"Original String:{reversed_result}")
+print(f"Reversed String:{reversed_result}")
